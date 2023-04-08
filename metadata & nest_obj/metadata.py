@@ -1,6 +1,6 @@
 import os
 
-# Set your project ID and VM instance name
+# Set your project ID, Zone and VM instance name
 project_id = "my-test-terraform-383009"
 zone = "us-west4-b"
 instance_name = "instance-1"
