@@ -1,0 +1,5 @@
+credentials       = "credentials.json"
+project_id       = "my-test-terraform-383009"
+region            = "us-central1"
+zone              = "us-central1-a"
+#subnet_cidr_range = "192.168.0.0/16"
