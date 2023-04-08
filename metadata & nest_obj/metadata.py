@@ -15,4 +15,5 @@ os.system(f"gcloud compute ssh {instance_name} --project={project_id} --command=
 # 1 output: projects/debian-cloud/global/images/debian-11-bullseye-v20230306
 # JSON format output
 # 2 output: [{"deviceName":"instance-1","index":0,"interface":"SCSI","mode":"READ_WRITE","type":"PERSISTENT-BALANCED"}]
+# data key-value retrieved individually
 # 3 output:  PERSISTENT-BALANCED
